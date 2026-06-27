@@ -178,4 +178,4 @@ https://github.com/Tashin90
 
 ---
 
-⭐ If you like this project, don't forget to give it a Star!
+⭐ If you like this project, don't forget to give it a Star. 
